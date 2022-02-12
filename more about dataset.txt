@@ -1,0 +1,4 @@
+correct and incorrectly worn masks
+https://github.com/cabani/MaskedFace-Net
+
+https://www.kaggle.com/andrewmvd/face-mask-detection
